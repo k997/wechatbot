@@ -3,7 +3,13 @@
 企业微信机器人消息接口的封装。
 
 ## 使用方法
-
+### 安装
+```python
+# wecom 依赖
+python -m pip install pycryptodome
+# demo 依赖
+python -m pip -r requirements.txt
+```
 ### 初始化
 
 关于以下参数介绍请参考[企业微信基本概念介绍](https://developer.work.weixin.qq.com/document/path/90665)。
